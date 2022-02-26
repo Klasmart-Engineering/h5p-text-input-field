@@ -1,3 +1,7 @@
+.h5p-text-input-field {
+  font-family: 'Roboto', sans-serif;
+}
+
 .h5p-text-input-field .h5p-text-input-field-textfield {
   padding: 0.25em 0.4em;
   width: calc(100% - 0.8em);
